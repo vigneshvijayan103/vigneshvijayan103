@@ -26,7 +26,7 @@
 
 
    <a href="https://vigneshvijayan103.github.io/portfolio/" target="_blank">
-    <img src="assets/_Software Engineer LinkedIn Banner (1).jpg" width="75" height="50" alt="gmail logo"  />
+    <img src="user_6883597.png" width="75" height="50" alt="gmail logo"  />
   </a>
 
 
@@ -102,7 +102,7 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
 </p>
-###
+
 
 
 
