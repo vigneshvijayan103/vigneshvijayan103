@@ -14,7 +14,7 @@
 
 <div align="center">
   <a href="https://linkedin.com/in/vigneshvijayan103" target="_blank">
-    <img src="personal.svg" width="75" height="50" alt="linkedin logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="75" height="50" alt="linkedin logo"  />
   </a>
   <a href="mailto:vigneshvijayan187@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="75" height="50" alt="gmail logo"  />
@@ -26,7 +26,7 @@
 
 
    <a href="https://vigneshvijayan103.github.io/portfolio/" target="_blank">
-    <img src="user_6883597.png" width="75" height="50" alt="gmail logo"  />
+    <img src="assets/personal.svg" width="75" height="50" alt="gmail logo"  />
   </a>
 
 
