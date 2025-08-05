@@ -51,7 +51,13 @@
 
 ###
 
-<p align="left">🔭 I’m currently working on NestLeaf 🌿 — an indoor plant e-commerce backend using ASP.NET Core<br><br>🌱 I’m currently learning how to build production-ready e-commerce backends with ASP.NET Core<br><br>👯 I’m looking to collaborate on NET Core backend projects and API<br><br>📩Contact Me- <a></a>vigneshvijayan187@gmail.com</p></a></p>
+<p align="left">
+  🔭 I’m currently working on <strong>NestLeaf 🌿</strong> — an indoor plant e-commerce backend using ASP.NET Core<br><br>
+  🌱 I’m currently learning how to build production-ready e-commerce backends with ASP.NET Core<br><br>
+  👯 I’m looking to collaborate on .NET Core backend projects and APIs<br><br>
+  📩 Contact Me — <a href="mailto:vigneshvijayan187@gmail.com">vigneshvijayan187@gmail.com</a>
+</p>
+
 
 ###
 
