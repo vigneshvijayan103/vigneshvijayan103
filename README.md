@@ -52,10 +52,13 @@
 ###
 
 <p align="left">
-  🔭 I’m currently working on <strong>E-Ballot 🗳️</strong> — an Electronic secured Voting Sysyem developing  using ASP.NET Core<br><br>
-  🌱 I’m currently learning how to build production-ready e-commerce backends with ASP.NET Core<br><br>
-  👯 I’m looking to collaborate on .NET Core backend projects and APIs<br><br>
-  📩 Contact Me — <a href="mailto:vigneshvijayan187@gmail.com">vigneshvijayan187@gmail.com</a>
+  🔭 I’m currently working on <strong>Sahaai 🤝</strong> — a secure, service-driven assistance platform built using ASP.NET Core<br><br>
+  
+  ⚙️ I enjoy designing clean backend architectures, focusing on scalability, performance optimization, and real-world business logic<br><br>
+  
+  👯 I’m looking to collaborate on .NET Core backend projects and RESTful APIs<br><br>
+  
+  📩 Contact Me — <a href="mailto:connectvigneshvijayan@gmail.com">vigneshvijayan187@gmail.com</a>
 </p>
 
 
