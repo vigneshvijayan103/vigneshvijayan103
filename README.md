@@ -58,7 +58,7 @@
   
   👯 I’m looking to collaborate on .NET Core backend projects and RESTful APIs<br><br>
   
-  📩 Contact Me — <a href="mailto:connectvigneshvijayan@gmail.com">vigneshvijayan187@gmail.com</a>
+  📩 Contact Me — <a href="mailto:connectvigneshvijayan@gmail.com">connectvigneshvijayan@gmail.com</a>
 </p>
 
 
